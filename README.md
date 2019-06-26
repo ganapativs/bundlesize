@@ -171,7 +171,7 @@ For more granular configuration, we recommend configuring it in the `package.jso
 ## Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
-<a href="graphs/contributors"><img src="https://opencollective.com/bundlesize/contributors.svg?width=890" /></a>
+<a href="https://github.com/siddharthkp/bundlesize/graphs/contributors"><img src="https://opencollective.com/bundlesize/contributors.svg?width=890" title="contributors" alt="contributors" /></a>
 
 #### license
 
