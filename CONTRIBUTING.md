@@ -25,7 +25,7 @@ Super exciting to see your contribution!
 4. Run `npm test` to ensure the repository is setup correctly. You should see a dummy output:
 
 ```
-PASS  ./index.js: 189B < maxSize 600B gzip 
+PASS  ./index.js: 189B < maxSize 600B gzip
 ```
 
 5. Make your changes.
@@ -58,7 +58,7 @@ API is hosted on zeit/now.
 - `store/firebase.js` Fetches and updates values from firebase
 
 #### [Click here to join the slack channel](https://join.slack.com/t/bundlesize/shared_invite/MjMyNTA0NjUwNzg5LTE1MDM4NjAxNjEtMjFjZThlZmIxMw)
-       
+
 #### Doubts?
 
 Feel free to open an issue or reach out to me [on twitter](https://twitter.com/siddharthkp).
@@ -76,8 +76,7 @@ Anyone can file an expense. If the expense makes sense for the development of th
 ### Contributors
 
 Thank you to all the people who have already contributed to bundlesize!
-<a href="graphs/contributors"><img src="https://opencollective.com/bundlesize/contributors.svg?width=890" /></a>
-
+<a href="https://github.com/siddharthkp/bundlesize/graphs/contributors"><img src="https://opencollective.com/bundlesize/contributors.svg?width=890" title="contributors" alt="contributors" /></a>
 
 ### Backers
 
